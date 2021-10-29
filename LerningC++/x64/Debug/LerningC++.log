@@ -1,0 +1,15 @@
+﻿  Book.cpp
+D:\VS_Projects_C++\LerningC++\LerningC++\LerningC++\Array.inl(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Iterator.cpp
+  MyArray.cpp
+  MyLibrary.cpp
+D:\VS_Projects_C++\LerningC++\LerningC++\LerningC++\Array.inl(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\VS_Projects_C++\LerningC++\LerningC++\LerningC++\MyLibrary.cpp(87,8): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\VS_Projects_C++\LerningC++\LerningC++\LerningC++\MyLibrary.cpp(89,28): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\VS_Projects_C++\LerningC++\LerningC++\LerningC++\MyLibrary.cpp(136,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  SmartPointer.cpp
+  main.cpp
+D:\VS_Projects_C++\LerningC++\LerningC++\LerningC++\Array.inl(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+D:\VS_Projects_C++\LerningC++\LerningC++\LerningC++\MyLibrary.cpp(55): warning C4172: возвращение адреса локальной или временной переменной : buffer
+  LerningC++.vcxproj -> D:\VS_Projects_C++\LerningC++\LerningC++\x64\Debug\LerningC++.exe
